@@ -64,7 +64,9 @@ mid-way confuses both the algorithm and viewers. Keep 1-2 ranked backup directio
 ## 4. Captions, tags, comments
 
 - First caption sentence states the topic and contains the words people search (search traffic is real
-  even for small accounts).
+  even for small accounts). Case: a small account's best-performing post got ~60% of its views from search
+  by naming that week's trending search phrase, while recommendation-fed posts plateaued near 100 views.
+  Post seasonal-moment content 1-3 days early, not on the day.
 - End with one question that invites comments ("What should he try next?"), then use the comments as the
   next episode's idea and say so in replies.
 - At most 5 hashtags: 1-2 broad + 2-3 niche + 1 seasonal.

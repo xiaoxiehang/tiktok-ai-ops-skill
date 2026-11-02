@@ -41,6 +41,9 @@ What works for new AI accounts (2026 case studies):
 - **Series over one-offs.** A single 20M+ view AI video can leave an account at <70k followers when
   there is no character or series to follow.
 - **Pet + current topic.** Riding a rising trend early (e.g. a dog "asking ChatGPT" something) can hit ~10M views.
+- **Same character + rising sound.** AI animal accounts with one fixed character that jump on a rising
+  sound early (a cat singing into a mic) reached ~6-7M views and ~690k followers. Relatable "animal as
+  ordinary office worker" stories (commute, overtime, snack on the way home) also resonate (Oct 2026 reports).
 - **Serialized drama with audience participation** grows extremely fast - but mass-produced, low-effort
   episodes get removed as low-quality AI content. Every episode needs its own scene and a complete mini-plot.
 

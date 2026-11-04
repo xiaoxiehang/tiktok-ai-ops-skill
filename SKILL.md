@@ -63,6 +63,8 @@ mid-way confuses both the algorithm and viewers. Keep 1-2 ranked backup directio
 - Templates fatigue: the same layout posted 3-4 times in a row lost ~50% avg watch time in our tests.
   Change the opening action, palette, scene and hook each time.
 - Put "Day N" in the hook to signal a series and give a reason to follow.
+- Keep on-screen/caption text very short (1-4 words) and the subject's face large; 2-3 characters in one shot invite "pick a side" comments (third-party case study, Nov 2026). Borrow structure only, never other people's characters.
+- After every post, verify its status in the analytics studio: a post can silently show "failed to publish"; re-post the same episode the same day.
 
 ## 4. Captions, tags, comments
 

@@ -50,6 +50,8 @@ What works for new AI accounts (2026 case studies):
 Pick one direction and post it daily for at least 7 posts (ideally 30) before judging. Switching topics
 mid-way confuses both the algorithm and viewers. Keep 1-2 ranked backup directions; never mix them in.
 
+- Rising AI-character accounts (week of 2026-11-02) grow fastest with a fixed character plus a recurring 'rivalry/fight' serial and a one-line world-building bio; give the character a recurring original opponent.
+
 ## 3. The first second (the main bottleneck)
 
 - Viewers of new accounts typically drop at 0:01-0:02. Optimize the first second before anything else.

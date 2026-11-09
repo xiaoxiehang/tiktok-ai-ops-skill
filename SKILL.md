@@ -50,6 +50,12 @@ What works for new AI accounts (2026 case studies):
 Pick one direction and post it daily for at least 7 posts (ideally 30) before judging. Switching topics
 mid-way confuses both the algorithm and viewers. Keep 1-2 ranked backup directions; never mix them in.
 
+- **Fixed cast + a signature sign-off gag.** Small AI-character accounts (2k-15k followers) report single
+  videos of 1.2-2.8M views when the cast is fixed (hero + recurring rival + one more role such as a boss),
+  each episode holds exactly one conflict, and every episode ends on the same small gesture so viewers
+  recognise the series (tracker count, 2026-11-04). Viewers remember personality, not technology. Let
+  comment questions become the next episode (one dessert-character account did this for three ~1M videos).
+  A repeated plot wears out fast: treat three episodes as a format test, and verify on your own numbers.
 - Rising AI-character accounts (week of 2026-11-02) grow fastest with a fixed character plus a recurring 'rivalry/fight' serial and a one-line world-building bio; give the character a recurring original opponent.
 
 ## 3. The first second (the main bottleneck)
@@ -93,7 +99,11 @@ mid-way confuses both the algorithm and viewers. Keep 1-2 ranked backup directio
   100k views/30 days and videos over 1 minute; elsewhere, monetization comes from brand deals or
   affiliate after growth.
 - Posting time matters far less than retention; studies disagree and within-account effects are small.
-  Pick an evening slot in the target audience's timezone and stop optimizing it.
+  Newest large sample (123k English videos that already passed 1k likes, 2026-11): median views were highest
+  for posts at 3-6 a.m. US Eastern and lowest at 5-9 p.m. - but that sample only contains videos that already
+  did well (no causal claim) and English audiences include UK/Asia daytime. If you want to test it, change
+  one variable only: post two episodes at ~04:00 Eastern (use the studio's scheduler), keep everything else
+  the same, compare 24-hour views against the previous three, and go back if nothing moves.
 
 ## 6. AI video production
 
@@ -146,6 +156,13 @@ an image generator for the start frame, ffmpeg for editing, a browser for postin
 
 - Order of metrics: average watch time, completion rate, then views, likes, comments, shares, follows.
 - Traffic sources are hidden under ~100 views.
+- Read each episode once, at ~24 hours. Measured on 38 AI videos (2026-11): small accounts get almost all
+  views in one burst 1-3 hours after posting (a median 97% of 48-hour views by hour 6; only ~1% more by day 7),
+  with a first-batch ceiling of a couple hundred views. So a plateau of 100-250 views means the first test
+  batch did not stay - fix the first 3 seconds, do not post more or tweak the clock.
+- A post stuck at 0 views: first open the studio's Account check / the video's analytics for an
+  "ineligible for For You" notice. No notice = the first viewers did not stay; it is not a ban. Never
+  delete and re-upload.
 - Set the review thresholds *before* starting a direction, e.g. after 7 posts: avg watch >=2.5 s or
   completion >=8% or first follows -> continue; after 5 posts avg watch <1.8 s and views below the old
   baseline -> switch to the next backup.

@@ -110,6 +110,22 @@ an image generator for the start frame, ffmpeg for editing, a browser for postin
    very large files may fail in browser upload).
 6. Keep funny native sound effects; add a trending sound at posting time.
 
+### Script before you generate
+- Write a second-by-second script and shot list first (action, prop direction and cause/effect, on-screen text,
+  sound effects, music mood per shot). Check it line by line; only generate once every line passes.
+- Generate one output per shot. If it fails, fix the script/start frame/prompt and re-check before regenerating.
+  Never post a clip that failed the check. Sound and music must match the scene.
+
+### Two-shot structure (fixes "stiff" clips)
+- Packing a whole gag (struggle + mishap + camera move + reaction) into one 8-10 s generation makes models
+  morph mid-clip: characters teleport, outfits vanish, push-ins jump.
+- Split it: Shot A, medium, locked camera, one big action (conflict -> mishap). Shot B, close-up, locked
+  camera, reaction only (blink, lick, stare at camera; the rival reacts in the background). Give each its own
+  start frame with full outfits, generate separately, and hard-cut at the peak of the mishap (mid-air / on impact).
+  ~4 s + ~5 s.
+- Spend the best (most expensive) model on the action shot; the reaction shot is fine on a fast model.
+  Budget credits so you can still post every day until they reset.
+
 ### Video prompt rules (adapted from sunfjun/claude-skill-ai-video-prompt, MIT)
 - One subject, one core action. Secondary motion only supports it. No action chains.
 - Background and passers-by: still, blurred, not competing.

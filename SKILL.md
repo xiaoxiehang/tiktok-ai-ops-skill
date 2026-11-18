@@ -173,3 +173,6 @@ Each day, pick a different angle: algorithm/policy news, AI-content rules, one o
 accounts (what format, hook, series device, posting rhythm, numbers, why it works), rising US trends,
 sounds and seasonal dates. Open the original page before trusting a claim, record source + date, and
 update the sections above. Delete anything disproven.
+
+## Pet-niche hook ranking (2026-11-19)
+Third-party benchmark (Blossom, 2026-11-12, correlational): meme-reference, unexpected-juxtaposition and pattern-interrupt openings reached ~15–19x an account's usual views; plain cute openings ~7x; "pet asks a question / fake dialogue" openers only ~1.5x. Open on the surprise; put questions at the end as a comment prompt.

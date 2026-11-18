@@ -7,3 +7,4 @@
 - 2026-11-09: Added rivalry-serial pattern for AI characters.
 - 2026-11-09: Added script-before-generate rule and two-shot structure for smoother AI clips.
 - 2026-11-10: Added fixed-cast + sign-off-gag pattern, read-once-at-24h rule with first-batch ceiling, zero-view diagnosis, and a single-variable posting-time test.
+- 2026-11-19: added pet-niche hook ranking

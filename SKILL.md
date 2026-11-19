@@ -176,3 +176,6 @@ update the sections above. Delete anything disproven.
 
 ## Pet-niche hook ranking (2026-11-19)
 Third-party benchmark (Blossom, 2026-11-12, correlational): meme-reference, unexpected-juxtaposition and pattern-interrupt openings reached ~15–19x an account's usual views; plain cute openings ~7x; "pet asks a question / fake dialogue" openers only ~1.5x. Open on the surprise; put questions at the end as a comment prompt.
+
+## Pet-niche technique ranking (2026-11-20)
+Third-party benchmark (Blossom, 2026-11-13, correlational, 34 techniques): multi-angle / shot changes ~52x an account's usual views, close-ups ~51x, quick transformation ~41x, looping ending ~31x, trending sound ~30x. A single fixed angle for the whole clip ~4.6x (below typical); question hooks, calls to action and comment bait all below typical; slow mood-setting openers worst (~1.1x). Practical rules for AI-generated clips: add a push-in or close-up inside every shot, make the last frame match the first (loop), and end on-screen text with a statement, not a question.

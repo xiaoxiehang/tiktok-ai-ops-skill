@@ -9,3 +9,4 @@
 - 2026-11-10: Added fixed-cast + sign-off-gag pattern, read-once-at-24h rule with first-batch ceiling, zero-view diagnosis, and a single-variable posting-time test.
 - 2026-11-19: added pet-niche hook ranking
 - 2026-11-20: added pet-niche technique ranking (close-ups, shot variety, loops; avoid fixed single angle and question endings)
+- 2026-11-23: added borrow-the-structure-not-the-trend note

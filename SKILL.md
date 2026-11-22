@@ -179,3 +179,6 @@ Third-party benchmark (Blossom, 2026-11-12, correlational): meme-reference, unex
 
 ## Pet-niche technique ranking (2026-11-20)
 Third-party benchmark (Blossom, 2026-11-13, correlational, 34 techniques): multi-angle / shot changes ~52x an account's usual views, close-ups ~51x, quick transformation ~41x, looping ending ~31x, trending sound ~30x. A single fixed angle for the whole clip ~4.6x (below typical); question hooks, calls to action and comment bait all below typical; slow mood-setting openers worst (~1.1x). Practical rules for AI-generated clips: add a push-in or close-up inside every shot, make the last frame match the first (loop), and end on-screen text with a statement, not a question.
+
+## Borrowing a template trend without cloning it (2026-11-23)
+When an AI-animal skit trend explodes (e.g. a "coworker forgets the order, partner stalls with a dance" format), don't copy it: the format is crowded within days and template-driven. Keep only the structure (two recurring characters, one mistake, one absurd cover-up) and rebuild it with your own characters, setting and gag. If the same reveal structure works in one setting but drops in watch time in another, the prop/action is the cause: prefer strong physical actions over passive ones.

@@ -182,3 +182,6 @@ Third-party benchmark (Blossom, 2026-11-13, correlational, 34 techniques): multi
 
 ## Borrowing a template trend without cloning it (2026-11-23)
 When an AI-animal skit trend explodes (e.g. a "coworker forgets the order, partner stalls with a dance" format), don't copy it: the format is crowded within days and template-driven. Keep only the structure (two recurring characters, one mistake, one absurd cover-up) and rebuild it with your own characters, setting and gag. If the same reveal structure works in one setting but drops in watch time in another, the prop/action is the cause: prefer strong physical actions over passive ones.
+
+## Audit the profile when you change direction (2026-11-24)
+After switching niche or character, re-read the bio, name and pinned items: a stale bio (old niche) undermines the "reason to follow" a series needs. Also, public 2026 datasets show story-driven AI animation growing fast and median video length near 57s, so run a periodic longer-episode (15–20s) test against your short baseline and keep it only if average watch time rises.

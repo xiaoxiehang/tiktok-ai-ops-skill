@@ -11,3 +11,4 @@
 - 2026-11-20: added pet-niche technique ranking (close-ups, shot variety, loops; avoid fixed single angle and question endings)
 - 2026-11-23: added borrow-the-structure-not-the-trend note
 - 2026-11-24: added profile-audit-after-pivot rule and longer-episode test note
+- 2026-11-26: added same-bit-new-subject / saves-and-shares note and fake-camera format menu

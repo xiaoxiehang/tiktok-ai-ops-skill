@@ -185,3 +185,9 @@ When an AI-animal skit trend explodes (e.g. a "coworker forgets the order, partn
 
 ## Audit the profile when you change direction (2026-11-24)
 After switching niche or character, re-read the bio, name and pinned items: a stale bio (old niche) undermines the "reason to follow" a series needs. Also, public 2026 datasets show story-driven AI animation growing fast and median video length near 57s, so run a periodic longer-episode (15–20s) test against your short baseline and keep it only if average watch time rises.
+
+## Same bit, new subject; chase saves and shares (2026-11-26)
+Third-party write-ups (2026-11-16 and 2026-11-24) of fast-growing AI-pet accounts show two repeatable moves. (1) Keep one signature bit and swap only the animal: one creator posted three near-identical "pet performs a song with a straight face" clips on consecutive days, reusing a single audio track, and each reached 1.7–3.5M plays with 16–59K saves. (2) Single-shot clips of ~15–19 seconds that end on one look into the lens drive saves, which a 7–9 second reaction clip rarely does. If your average watch time is stable but comments, shares and saves sit at zero, the missing piece is a reason to save or send: end with a statement that tags a person ("send this to your coworker") and test one longer single-shot episode. Beware of mixing platforms when citing growth numbers (some headline cases are Instagram, not TikTok).
+
+## Format menu for AI pet accounts (2026-11-26)
+Four formats recur on TikTok: talking-pet mini story, pet-with-a-job series, fake security-camera clip (grainy fixed overhead shot, timestamp text, the pet does something it shouldn't, then looks straight into the camera), and dancing pet. For an existing job-series, the fake-camera format is the cheapest variation: one fixed shot, one mischievous action, a final look to the lens, and it reuses the "reveal in the last second" structure that already tested well.

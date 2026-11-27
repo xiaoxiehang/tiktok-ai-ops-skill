@@ -12,3 +12,4 @@
 - 2026-11-23: added borrow-the-structure-not-the-trend note
 - 2026-11-24: added profile-audit-after-pivot rule and longer-episode test note
 - 2026-11-26: added same-bit-new-subject / saves-and-shares note and fake-camera format menu
+- 2026-11-28: added one-shot pour gag / no-stitching rule, 2-second 'is this for me' opening, and small-account ceiling note
